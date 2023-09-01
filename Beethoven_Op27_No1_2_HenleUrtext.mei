@@ -25,7 +25,7 @@
                <name xml:id="nc1eow2">Verovio</name>
                <p xml:id="p1j88miy">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a3954qm1" startdate="2023-09-01T17:27:32" version="1.0.0" enddate="2023-09-01T22:30:00">
+            <application xml:id="a3954qm1" startdate="2023-09-01T17:27:32" version="1.0.0" enddate="2023-09-01T22:30:54">
                <name xml:id="n8jlk781">mei-friend</name>
                <p xml:id="pd2eyqj1">First edit by mei-friend 1.0.0, 1 September 2023.</p>
             </application>
@@ -54,7 +54,8 @@
                      </staffGrp>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="s1eorshu">
+               <section xml:id="Op27No1_2">
+                  <expansion xml:id="expansion_default" plist="#A0 #A #A1 #A #A2 #B #B1 #B #B2 #Trio_A #Trio_A1 #Trio_A #Trio_A2 #Trio_B #Trio_B1 #Trio_B #Trio_B2 #Dacapo" />
                   <pb xml:id="pte5m1o"/>
                   <section xml:id="A0">
                      <measure xml:id="mh305xf" n="1">
@@ -4308,7 +4309,7 @@
                         <staff xml:id="s11a2n2b" n="1">
                            <layer xml:id="lt5x3g9" n="1">
                               <note xml:id="nvde2ws" dur="4" oct="3" pname="e" stem.dir="up" staff="2"/>
-                              <note xml:id="ni7ztqf" dur="2" oct="3" pname="c" stem.dir="down" staff="2"/>
+                              <note xml:id="ni7ztqf" dur="2" oct="3" pname="c" stem.dir="up" staff="2"/>
                            </layer>
                         </staff>
                         <staff xml:id="s1bkdyb0" n="2">
@@ -4316,7 +4317,7 @@
                               <note xml:id="naa4bc8" dots="1" dur="2" oct="2" pname="c" stem.dir="down"/>
                            </layer>
                         </staff>
-                        <dynam xml:id="ds1j99j" place="between" staff="2" tstamp="2.000000" vgrp="45">sf</dynam>
+                        <dynam xml:id="ds1j99j" place="below" staff="2" tstamp="2.000000" vgrp="45">sf</dynam>
                         <fermata xml:id="fmkfp0d" staff="2" startid="#ni7ztqf" form="norm" place="above"/>
                         <fermata xml:id="f1ozanis" staff="2" startid="#naa4bc8" form="inv" place="below"/>
                      </measure>
