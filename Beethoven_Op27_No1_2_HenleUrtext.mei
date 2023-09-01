@@ -1406,7 +1406,7 @@
                            </layer>
                            <layer xml:id="l1apylcs" n="2">
                               <tuplet xml:id="tkfl2gc" num="9" numbase="6" num.visible="false" bracket.visible="false">
-                                 <note xml:id="n1qm0805" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" />
+                                 <note xml:id="n1qm0805" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f"/>
                                  <note xml:id="nuszd63" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
                                  <note xml:id="n8tzigo" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
                                  <note xml:id="n18her7p" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
