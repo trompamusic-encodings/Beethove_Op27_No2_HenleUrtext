@@ -75,7 +75,7 @@
                            </layer>
                         </staff>
                         <dynam xml:id="da0bhxb" place="between" staff="1 2" tstamp="1.000000" vgrp="45">p</dynam>
-                        <tempo xml:id="tboh7sr" place="above" staff="1" tstamp="1.000000" xml:lang="it" mm="138" mm.unit="2" mm.dots="1">
+                        <tempo xml:id="tboh7sr" place="above" staff="1" tstamp="1.000000" xml:lang="it" mm="152" mm.unit="2" mm.dots="1">
                            <rend xml:id="r17385q0" fontweight="bold">Allegro molto e vivace</rend>
                         </tempo>
                         <slur xml:id="s1y37zac" startid="#n1fqdpaq" endid="#nd4tpev" curvedir="above" />
