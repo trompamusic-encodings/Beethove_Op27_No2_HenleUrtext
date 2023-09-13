@@ -1361,13 +1361,13 @@
                               <space xml:id="soqivw4" dur="16" />
                               <space xml:id="sgmecwv" dur="32" />
                               <tuplet xml:id="t1bdfnpt" num="8" numbase="6" num.visible="false" bracket.visible="false">
-                                 <note xml:id="n1lm3g0c" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="n1ek9p6" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="nta6txh" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="n6cp6k4" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="nxsrczh" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="nz6q06b" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="ne8d9y0" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
+                                 <note xml:id="n1lm3g0c" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="n1ek9p6" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="nta6txh" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="n6cp6k4" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="nxsrczh" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="nz6q06b" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="ne8d9y0" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
                               </tuplet>
                            </layer>
                         </staff>
@@ -1406,15 +1406,15 @@
                            </layer>
                            <layer xml:id="l1apylcs" n="2">
                               <tuplet xml:id="tkfl2gc" num="9" numbase="6" num.visible="false" bracket.visible="false">
-                                 <note xml:id="n1qm0805" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f"/>
-                                 <note xml:id="nuszd63" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="n8tzigo" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="n18her7p" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="n1uhl24n" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="nlnghve" dur="8" oct="5" pname="a" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="ng8d32m" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
-                                 <note xml:id="nnbgb0q" dur="8" oct="5" pname="f" cue="true" stem.visible="false" visible="false" />
-                                 <note xml:id="n1h9ugsy" dur="8" oct="5" pname="g" cue="true" stem.visible="false" visible="false" accid.ges="f" />
+                                 <note xml:id="n1qm0805" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f"/>
+                                 <note xml:id="nuszd63" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="n8tzigo" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="n18her7p" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="n1uhl24n" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="nlnghve" dur="8" oct="5" pname="a" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="ng8d32m" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
+                                 <note xml:id="nnbgb0q" dur="8" oct="5" pname="f" cue="true" visible="false" />
+                                 <note xml:id="n1h9ugsy" dur="8" oct="5" pname="g" cue="true" visible="false" accid.ges="f" />
                               </tuplet>
                            </layer>
                         </staff>
